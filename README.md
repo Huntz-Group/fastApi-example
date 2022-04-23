@@ -10,6 +10,6 @@ Or :
 
 For server use:
 
--pip install "uvicorn[standard]"
+- pip install "uvicorn[standard]"
 
 Enjoy.
